@@ -29,6 +29,7 @@
             wp_nav_menu( 
                 array(
                     'theme_location' => 'topmenu',
+                    'menu_id' => '',
                     'menu_class' => 'navbar-nav',
                 )
                 );
