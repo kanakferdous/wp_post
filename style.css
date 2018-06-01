@@ -1,0 +1,40 @@
+/*
+Theme Name: Demo 1
+Theme URI: 
+Author: kanak
+Author URI: 
+Description: Our 2015 default theme is clean, blog-focused, and designed for clarity. Twenty Fifteen's simple, straightforward typography is readable on a wide variety of screen sizes, and suitable for multiple languages. We designed it using a mobile-first approach, meaning your content takes center-stage, regardless of whether your visitors arrive by smartphone, tablet, laptop, or desktop computer.
+Version: 2.0
+License: GNU General Public License v2 or later
+License URI: 
+Tags: 
+Text Domain: Demo1
+*/
+.menu-menu-1-container{
+	margin: 0 auto;
+}
+
+.menu-menu-1-container ul li{
+	padding-left: 1.5rem!important;
+}
+.menu-menu-1-container ul li a{
+	color: #fff;
+	font-size: .9rem;
+	font-weight: 800;
+    text-decoration: none;
+}
+.menu-menu-1-container ul li a.active{
+	color: #e6a756;;
+	font-size: .9rem;
+	font-weight: 800;
+    text-decoration: none;
+}
+.menu-menu-1-container ul li a:hover{
+	color: #ddd;
+	font-size: .9rem;
+	font-weight: 800;
+    text-decoration: none;
+}
+.product-item{
+	margin-bottom: 30px;
+}
